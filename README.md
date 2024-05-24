@@ -1,4 +1,4 @@
-# -Programando-Sistemas-Embarcados-com-a-Placa-de-Prototipa-o-Arduino-
+# Programando-Sistemas-Embarcados-com-a-Placa-de-Prototipa-o-Arduino
 
 A programação de sistemas embarcados com Arduino abre um mundo de possibilidades para criadores, engenheiros e entusiastas da tecnologia. O Arduino é uma plataforma de prototipagem eletrônica de código aberto que é fácil de usar e altamente versátil, tornando-a ideal para o desenvolvimento rápido de projetos de hardware.
 
